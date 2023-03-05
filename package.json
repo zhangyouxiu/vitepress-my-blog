@@ -1,0 +1,25 @@
+{
+  "name": "vitepress-my-blog",
+  "version": "1.0.0",
+  "description": "vitepress-my-blog",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vitepress dev docs --open",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangyouxiu/vitepress-my-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangyouxiu/vitepress-my-blog/issues"
+  },
+  "homepage": "https://github.com/zhangyouxiu/vitepress-my-blog#readme",
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.49"
+  }
+}
